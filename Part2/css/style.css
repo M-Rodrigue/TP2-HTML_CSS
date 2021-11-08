@@ -2,12 +2,15 @@
 h1 {
   font-family: 'Sacramento';
   font-size: 60px;
-  color: #F76B8A;
+  color: ##66BFBF;
+}
+h2 {
+  color: #66BFBF;
 }
 h3 {
   font-family: 'Sacramento';
   font-size: 40px;
-  color: #F76B8A;
+  color: ##11999E;
 }
 body {
   font-family: 'Merriweather';
@@ -40,6 +43,13 @@ hr {
 
 }
 .centrer {
+
+}
+.middle-container {
+  position: relative;
+
+}
+bottom-container {
 
 }
 
